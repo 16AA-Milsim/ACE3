@@ -165,8 +165,8 @@ class CfgWeapons {
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {QPATHTOF(data\IVBag_plasma_1000ml_ca.paa)};
         picture = QPATHTOF(ui\plasmaIV_ca.paa);
-        descriptionShort = CSTRING(Gelofusine_IV_Desc_Short);
-        descriptionUse = CSTRING(Gelofusine_IV_Desc_Use);
+        descriptionShort = CSTRING(Plasma_IV_Desc_Short);
+        descriptionUse = CSTRING(Plasma_IV_Desc_Use);
         class ItemInfo: CBA_MiscItem_ItemInfo {
             mass = 10;
         };
