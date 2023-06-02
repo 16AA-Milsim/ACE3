@@ -157,6 +157,36 @@ class CfgWeapons {
             mass = 2.5;
         };
     };
+        class ACE_fibrinogenIV: ACE_ItemCore {
+        scope = 2;
+        author = ECSTRING(common,ACETeam);
+        displayName = CSTRING(Fibrinogen_IV);
+        model = QPATHTOF(data\IVBag_1000ml.p3d);
+        hiddenSelections[] = {"camo"};
+        hiddenSelectionsTextures[] = {QPATHTOF(data\IVBag_plasma_1000ml_ca.paa)};
+        picture = QPATHTOF(ui\plasmaIV_ca.paa);
+        descriptionShort = CSTRING(Fibrinogen_IV_Desc_Short);
+        descriptionUse = CSTRING(Fibrinogen_IV_Desc_Use);
+        class ItemInfo: CBA_MiscItem_ItemInfo {
+            mass = 10;
+        };
+    };
+    class ACE_fibrinogenIV_500: ACE_fibrinogenIV {
+        displayName = CSTRING(Fibrinogen_IV_500);
+        model = QPATHTOF(data\IVBag_500ml.p3d);
+        hiddenSelectionsTextures[] = {QPATHTOF(data\IVBag_plasma_500ml_ca.paa)};
+        class ItemInfo: CBA_MiscItem_ItemInfo {
+            mass = 5;
+        };
+    };
+    class ACE_fibrinogenIV_250: ACE_fibrinogenIV {
+        displayName = CSTRING(Fibrinogen_IV_250);
+        model = QPATHTOF(data\IVBag_250ml.p3d);
+        hiddenSelectionsTextures[] = {QPATHTOF(data\IVBag_plasma_250ml_ca.paa)};
+        class ItemInfo: CBA_MiscItem_ItemInfo {
+            mass = 2.5;
+        };
+    };
     class ACE_bloodIV: ACE_ItemCore {
         scope = 2;
         author = ECSTRING(common,ACETeam);
