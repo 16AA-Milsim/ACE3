@@ -642,7 +642,7 @@ class ADDON {
         class GelofusineIV: BloodIV {
             volume = 1000;
             ratio[] = {"Blood", 1};
-            type = "Plasma";
+            type = "Gelofusine";
         };
         class GelofusineIV_500: GelofusineIV {
             volume = 500;
