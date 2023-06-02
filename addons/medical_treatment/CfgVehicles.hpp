@@ -181,6 +181,17 @@ class CfgVehicles {
             MACRO_ADDITEM(ACE_plasmaIV,1);
         };
     };
+    class ACE_gelofusineIVItem: Item_Base_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(Gelofusine_IV);
+        author = ECSTRING(common,ACETeam);
+        vehicleClass = "Items";
+        class TransportItems {
+            MACRO_ADDITEM(ACE_gelofusineaIV,1);
+        };
+    };
+
 
     class ACE_bloodIVItem: Item_Base_F {
         scope = 2;
@@ -316,6 +327,9 @@ class CfgVehicles {
             MACRO_ADDITEM(ACE_plasmaIV,7);
             MACRO_ADDITEM(ACE_plasmaIV_500,7);
             MACRO_ADDITEM(ACE_plasmaIV_250,7);
+            MACRO_ADDITEM(ACE_gelofusineIV,7);
+            MACRO_ADDITEM(ACE_gelofusineIV_500,7);
+            MACRO_ADDITEM(ACE_gelofusineIV_250,7);
             MACRO_ADDITEM(ACE_salineIV,7);
             MACRO_ADDITEM(ACE_salineIV_500,7);
             MACRO_ADDITEM(ACE_salineIV_250,7);
