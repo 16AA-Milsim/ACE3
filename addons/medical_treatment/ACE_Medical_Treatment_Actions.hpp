@@ -178,6 +178,20 @@ class GVAR(actions) {
         displayName = CSTRING(Actions_Plasma4_250);
         items[] = {"ACE_plasmaIV_250"};
     };
+    class GelofusineIV: BloodIV {
+        displayName = CSTRING(Actions_Gelofusine4_1000);
+        displayNameProgress = CSTRING(Transfusing_Gelofusine);
+        items[] = {"ACE_gelofusineIV"};
+        animationMedic = "AinvPknlMstpSnonWnonDnon_medic1";
+    };
+    class GelofusineIV_500: GelofusineIV {
+        displayName = CSTRING(Actions_Gelofusine4_500);
+        items[] = {"ACE_gelofusineIV_500"};
+    };
+    class GelofusineIV_250: GelofusineIV {
+        displayName = CSTRING(Actions_Gelofusine4_250a);
+        items[] = {"ACE_gelofusineIV_250"};
+    };
     class SalineIV: BloodIV {
         displayName = CSTRING(Actions_Saline4_1000);
         displayNameProgress = CSTRING(Transfusing_Saline);
