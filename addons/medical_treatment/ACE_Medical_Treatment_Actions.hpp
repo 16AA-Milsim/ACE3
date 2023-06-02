@@ -189,7 +189,7 @@ class GVAR(actions) {
         items[] = {"ACE_gelofusineIV_500"};
     };
     class GelofusineIV_250: GelofusineIV {
-        displayName = CSTRING(Actions_Gelofusine4_250a);
+        displayName = CSTRING(Actions_Gelofusine4_250);
         items[] = {"ACE_gelofusineIV_250"};
     };
     class SalineIV: BloodIV {
