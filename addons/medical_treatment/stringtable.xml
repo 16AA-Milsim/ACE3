@@ -2812,6 +2812,23 @@
             <Chinese>輸血漿中 ...</Chinese>
             <Turkish>Plasma Veriliyor...</Turkish>
         </Key>
+        <Key ID="STR_ACE_Medical_Treatment_Transfusing_Gelofusine">
+            <English>Transfusing Gelofusine...</English>
+            <German>Gelofusine transfusion...</German>
+            <Spanish>Transfusión de Gelofusine...</Spanish>
+            <Czech>Probíha transfúze plazmy...</Czech>
+            <Polish>Przetaczanie osocza...</Polish>
+            <French>Transfusion (Gelofusine)...</French>
+            <Russian>Переливание плазмы...</Russian>
+            <Hungarian>Infúzió vérplazmával...</Hungarian>
+            <Italian>Effettu la trasfusione di plasma...</Italian>
+            <Portuguese>Transfundindo Plasma...</Portuguese>
+            <Japanese>血しょうを投与しています・・・</Japanese>
+            <Korean>혈장 수혈 중...</Korean>
+            <Chinesesimp>正在输入血浆...</Chinesesimp>
+            <Chinese>輸血漿中 ...</Chinese>
+            <Turkish>Plasma Veriliyor...</Turkish>
+        </Key>
         <Key ID="STR_ACE_Medical_Treatment_Bandaging">
             <English>Bandaging...</English>
             <German>Verbinden...</German>
