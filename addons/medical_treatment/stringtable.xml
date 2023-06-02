@@ -3267,6 +3267,57 @@
             <Chinese>注射生理食鹽水 (250毫升)</Chinese>
             <Turkish>Serum IV (250ml) Ver</Turkish>
         </Key>
+                <Key ID="STR_ACE_Medical_Treatment_Actions_Gelofusine4_1000">
+            <English>Give Gelofusine IV (1000ml)</English>
+            <German>Gelofusine IV (1000ml)</German>
+            <Spanish>Dar Gelofusine IV (1000ml)</Spanish>
+            <Russian>Перелить пакет физраствора (1000 мл)</Russian>
+            <Polish>Podaj sól fizjologiczną IV (1000ml)</Polish>
+            <French>Solution saline en IV (1000 ml)</French>
+            <Czech>Podaz fyz. roztok (1000ml)</Czech>
+            <Hungarian>Sós víz adása intravénásan (1000ml)</Hungarian>
+            <Italian>Effettua trasfusione salina EV (1˙000ml)</Italian>
+            <Portuguese>Administrar Soro IV (1000ml)</Portuguese>
+            <Japanese>生理食塩水 IV (1000ml) を投与</Japanese>
+            <Korean>IV 생리식염수 수혈 (1000ml)</Korean>
+            <Chinesesimp>静脉注射生理盐水（1000毫升）</Chinesesimp>
+            <Chinese>注射生理食鹽水 (1000毫升)</Chinese>
+            <Turkish>Serum IV (1000ml) Ver</Turkish>
+        </Key>
+        <Key ID="STR_ACE_Medical_Treatment_Actions_Gelofusine4_500">
+            <English>Give Gelofusine IV (500ml)</English>
+            <German>Gelofusine IV (500ml)</German>
+            <Spanish>Dar Salino IV (500ml)</Spanish>
+            <Russian>Перелить пакет физраствора (500 мл)</Russian>
+            <Polish>Podaj sól fizjologiczną IV (500ml)</Polish>
+            <French>Solution saline en IV (500 ml)</French>
+            <Czech>Podaz fyz. roztok (500ml)</Czech>
+            <Hungarian>Sós víz adása intravénásan (500ml)</Hungarian>
+            <Italian>Effettua trasfusione salina EV (500ml)</Italian>
+            <Portuguese>Administrar Soro IV (500ml)</Portuguese>
+            <Japanese>生理食塩水 IV (500ml) を投与</Japanese>
+            <Korean>IV 생리식염수 수혈 (500ml)</Korean>
+            <Chinesesimp>静脉注射生理盐水（500毫升）</Chinesesimp>
+            <Chinese>注射生理食鹽水 (500毫升)</Chinese>
+            <Turkish>Serum IV (500ml) Ver</Turkish>
+        </Key>
+        <Key ID="STR_ACE_Medical_Treatment_Actions_Gelofusine4_250">
+            <English>Give Gelofusine IV (250ml)</English>
+            <German>Gelofusine IV (250ml)</German>
+            <Spanish>Dar Salino IV (250ml)</Spanish>
+            <Russian>Перелить пакет физраствора (250 мл)</Russian>
+            <Polish>Podaj sól fizjologiczną IV (250ml)</Polish>
+            <French>Solution saline en IV (250 ml)</French>
+            <Czech>Podaz fyz. roztok (250ml)</Czech>
+            <Hungarian>Sós víz adása intravénásan (250ml)</Hungarian>
+            <Italian>Effettua trasfusione salina EV (250ml)</Italian>
+            <Portuguese>Administrar Soro IV (250ml)</Portuguese>
+            <Japanese>生理食塩水 IV (250ml) を投与</Japanese>
+            <Korean>IV 생리식염수 수혈 (250ml)</Korean>
+            <Chinesesimp>静脉注射生理盐水（250毫升）</Chinesesimp>
+            <Chinese>注射生理食鹽水 (250毫升)</Chinese>
+            <Turkish>Serum IV (250ml) Ver</Turkish>
+        </Key>
         <Key ID="STR_ACE_Medical_Treatment_Triage_Status_Minimal">
             <English>Minimal</English>
             <German>Minimal</German>
